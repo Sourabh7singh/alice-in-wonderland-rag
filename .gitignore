@@ -1,0 +1,16 @@
+# Environment & Virtualenvs
+.env
+venv/
+env/
+.venv/
+
+# Vector Store (Chroma DB directory)
+*_db/
+
+# Python Cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
